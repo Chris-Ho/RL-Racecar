@@ -8,4 +8,6 @@ I edited the notebook so that only the essential parts are shown:
   - A visualisation of a trained agent
   - And the average learning curve of my agent implementation
 
-Simply run the cells in order to see it working.
+Simply run the cells of 'racecar.ipynb' in order to see it working.
+
+Note: All other files were provided (the only code I have written is in racecar.ipynb).
